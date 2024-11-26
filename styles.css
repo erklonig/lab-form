@@ -22,20 +22,12 @@ form {
   margin: auto;
   justify-content: center;
   align-items: center;
+  padding-top: 20px;
 }
 
 input {
   margin-bottom: 20px !important;
 }
-/* .bg {
-  background-image: url("bg.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  overflow-x: hidden;
-  z-index: -10;
-  opacity: 0.8;
-  position: relative;
-} */
 
 main {
   position: relative;
