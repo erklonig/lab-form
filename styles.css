@@ -52,9 +52,13 @@ button {
 }
 
 h1 {
-  padding-top: 1em;
-  padding-bottom: 0.5em;
   color: #c7c7c7 !important;
+}
+
+h2 {
+  margin-top: 0 !important;
+  color: rgba(199, 199, 199, 0.7) !important;
+  font-size: 1em;
 }
 
 i {
